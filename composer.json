@@ -1,0 +1,16 @@
+{
+    "name": "ipeweb/criando-api",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Ipeweb\\CriandoApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Filipe Arantes",
+            "email": "filipe.arantes@ipeweb.com.br"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,20 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração do IDE/editor
+.vscode/
+.php-cs-fixer.php
+
+# Ambiente de desenvolvimento
+.env
+
+# Dependências do Composer
+/vendor/
+
+# Logs e cache
+storage/logs/
+storage/cache/
+
+# Arquivos de compilação
+composer.lock
